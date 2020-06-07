@@ -1,0 +1,104 @@
+{
+  "meal": [
+    {
+      "id": 1,
+      "provider": "Biryani House",
+      "location": "Delhi,Mumbai,Gurgaon",
+      "rating": 4.1,
+      "coupon": "30% off on upto Rs. 600 on min order of 2000",
+      "image": "https://images.pexels.com/photos/2624774/pexels-photo-2624774.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "id": 2,
+      "provider": "Delhi Chat House",
+      "location": "Delhi,Mumbai,Gurgaon",
+      "rating": 4.0,
+      "coupon": "10% off on upto Rs. 300 on min order of 1000",
+      "image": "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "id": 3,
+      "provider": "Hotel South Avenue",
+      "location": "Delhi,Mumbai,Gurgaon",
+      "rating": 4.0,
+      "coupon": "10% off on upto Rs. 200 on min order of 1000",
+      "image": "https://images.pexels.com/photos/958545/pexels-photo-958545.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+
+    {
+      "id": 4,
+      "provider": "Pizza Hut",
+      "location": "Delhi,Mumbai,Gurgaon",
+      "rating": 4.0,
+      "coupon": "15% off on upto Rs. 200 on min order of 1000",
+      "image": "https://images.pexels.com/photos/1566837/pexels-photo-1566837.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+
+    {
+      "id": 5,
+      "provider": "Pizza House",
+      "location": "Delhi,Mumbai,Gurgaon",
+      "rating": 4.0,
+      "coupon": "15% off on upto Rs. 200 on min order of 1000",
+      "image": "https://images.pexels.com/photos/1049620/pexels-photo-1049620.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+
+    {
+      "id": 6,
+      "provider": "Juice House",
+      "location": "Delhi,Mumbai,Gurgaon",
+      "rating": 4.0,
+      "coupon": "15% off on upto Rs. 200 on min order of 1000",
+      "image": "https://images.pexels.com/photos/452737/pexels-photo-452737.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+
+    {
+      "id": 7,
+      "provider": "Juice Corner",
+      "location": "Delhi,Mumbai,Gurgaon",
+      "rating": 4.0,
+      "coupon": "15% off on upto Rs. 200 on min order of 1000",
+      "image": "https://images.pexels.com/photos/158053/fresh-orange-juice-squeezed-refreshing-citrus-158053.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "id": 8,
+      "provider": "Ice Corner",
+      "location": "Delhi,Mumbai,Gurgaon",
+      "rating": 4.0,
+      "coupon": "25% off on upto Rs. 200 on min order of 1000",
+      "image": "https://images.pexels.com/photos/108370/pexels-photo-108370.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "id": 9,
+      "provider": "Cream Stone",
+      "location": "Delhi,Mumbai,Gurgaon",
+      "rating": 4.0,
+      "coupon": "25% off on upto Rs. 200 on min order of 1000",
+      "image": "https://images.pexels.com/photos/3631/summer-dessert-sweet-ice-cream.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "id": 10,
+      "provider": "Polar Bear",
+      "location": "Delhi,Mumbai,Gurgaon",
+      "rating": 4.0,
+      "coupon": "25% off on upto Rs. 200 on min order of 1000",
+      "image": "https://images.pexels.com/photos/1352299/pexels-photo-1352299.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "id": 11,
+      "provider": "Chicken tandoori",
+      "location": "Delhi,Mumbai,Gurgaon",
+      "rating": 4.0,
+      "coupon": "25% off on upto Rs. 200 on min order of 1000",
+      "image": "https://images.pexels.com/photos/106343/pexels-photo-106343.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "id": 12,
+      "provider": "Hotel South",
+      "location": "Delhi,Mumbai,Gurgaon",
+      "rating": 4.0,
+      "coupon": "25% off on upto Rs. 200 on min order of 1000",
+      "image": "https://images.pexels.com/photos/33406/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ]
+}

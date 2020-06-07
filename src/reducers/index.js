@@ -1,0 +1,1 @@
+export { couponsReducer } from './couponsReducer';
